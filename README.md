@@ -1,6 +1,6 @@
 ## Python Client for Ploteus Turkey Integration Pool
 
-##$ Example usage:
+##$ Example usage of uploading learning opportunities:
 
 ```python
 from ploteus_tr_client import ploteus_client
